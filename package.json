@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "svg2ttf": "^4.3.0",
+    "ttf2woff": "^2.0.1",
+    "ttf2woff2": "^3.0.0"
+  }
+}

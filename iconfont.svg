@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <font id="iconfont" horiz-adv-x="50">
+      <font-face font-family="iconfont" units-per-em="50" ascent="50" descent="0" />
+      <missing-glyph horiz-adv-x="0" />
+      <glyph glyph-name="circle" unicode="thirteenchars" horiz-adv-x="50" d="M0 25A25 25 0 0 1 50 25A25 25 0 0 1 0 25" />
+    </font>
+  </defs>
+</svg>
